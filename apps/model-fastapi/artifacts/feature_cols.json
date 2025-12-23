@@ -1,0 +1,20 @@
+[
+  "open_price",
+  "high_price",
+  "low_price",
+  "close_price",
+  "prev_close",
+  "share_volume",
+  "ret_1",
+  "gap_1",
+  "co_ret",
+  "hl_pct",
+  "log_vol",
+  "ret_mean_5",
+  "ret_std_5",
+  "ret_mean_20",
+  "ret_std_20",
+  "vol_mean_20",
+  "vol_std_20",
+  "dow"
+]

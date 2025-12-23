@@ -1,0 +1,27 @@
+# Python virtual env
+.venv/
+venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Env secrets
+.env
+.env.*
+
+# Local data (test datasets)
+data/
+*.csv
+*.parquet
+
+# Model artifacts 
+artifacts/catboost_model.cbm
+artifacts/*.cbm
+*.cbm
+
+# Logs
+*.log
+
+# macOS
+.DS_Store
